@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <!-- Turf background green grass gradient -->
+    <path
+        android:fillColor="#0D5936"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <!-- Turf stripes -->
+    <path
+        android:fillColor="#094A2B"
+        android:pathData="M0,0 h60 v180 h-60 z M120,0 h60 v180 h-60 z M240,0 h60 v180 h-60 z" />
+    <!-- Cricket pitch in center -->
+    <path
+        android:fillColor="#C2A677"
+        android:pathData="M150,20 h60 v140 h-60 z" />
+    <!-- Pitch crease markings -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M150,45 h60 M150,135 h60 M180,45 v-15 M180,135 v15" />
+    <!-- Boundary line -->
+    <path
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M30,20 h300 v140 h-300 z" />
+    <!-- Night floodlight glow overhead -->
+    <path
+        android:fillColor="#25FFFFFF"
+        android:pathData="M0,0 L180,90 L360,0 Z" />
+</vector>

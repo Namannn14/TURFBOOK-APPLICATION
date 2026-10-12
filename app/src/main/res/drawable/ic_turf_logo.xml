@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Turf stadium background shield -->
+    <path
+        android:fillColor="#0F5132"
+        android:pathData="M48,6 C68,6 84,18 84,38 C84,62 58,84 48,90 C38,84 12,62 12,38 C12,18 28,6 48,6 Z" />
+    <!-- Turf stripes -->
+    <path
+        android:fillColor="#157347"
+        android:pathData="M24,34 L72,34 L70,44 L26,44 Z" />
+    <path
+        android:fillColor="#198754"
+        android:pathData="M27,52 L69,52 L66,62 L30,62 Z" />
+    <!-- Center ball / play mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,32 A14,14 0 1,0 48,60 A14,14 0 1,0 48,32 Z" />
+    <path
+        android:fillColor="#0F5132"
+        android:pathData="M48,38 L54,43 L52,50 L44,50 L42,43 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M38,70 L58,70" />
+</vector>

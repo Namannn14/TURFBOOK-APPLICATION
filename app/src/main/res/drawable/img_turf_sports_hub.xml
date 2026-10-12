@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <!-- Blue modern multisport acrylic / turf court -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M30,20 h300 v140 h-300 z M180,20 v140" />
+    <path
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2.5"
+        android:pathData="M180,60 A30,30 0 1,0 180,120 A30,30 0 1,0 180,60 Z" />
+    <path
+        android:strokeColor="#F43F5E"
+        android:strokeWidth="2"
+        android:pathData="M30,40 h70 v100 h-70 M330,40 h-70 v100 h70" />
+</vector>

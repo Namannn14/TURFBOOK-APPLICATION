@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#064E3B"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <path
+        android:fillColor="#047857"
+        android:pathData="M0,45 h360 v45 h-360 z M0,135 h360 v45 h-360 z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M155,25 h50 v130 h-50 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M155,45 h50 M155,135 h50 M50,20 h260 v140 h-260 z" />
+    <!-- Cricket bat silhouette in corner -->
+    <path
+        android:fillColor="#E5E7EB"
+        android:pathData="M290,130 L320,100 L326,106 L296,136 Z M324,102 L332,94" />
+</vector>

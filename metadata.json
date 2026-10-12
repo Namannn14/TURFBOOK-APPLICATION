@@ -1,0 +1,6 @@
+{
+  "name": "TurfBook",
+  "description": "Local sports venue and turf booking application for discovering venues, checking available slots, and booking turfs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

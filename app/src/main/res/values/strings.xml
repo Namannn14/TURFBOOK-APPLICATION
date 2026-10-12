@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TurfBook</string>
+    <string name="app_tagline">Book Your Game. Play Your Best.</string>
+    
+    <!-- Auth Strings -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to book your favorite sports turf</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="mobile_hint">Mobile Number</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Create New Account</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    
+    <!-- Home Strings -->
+    <string name="search_hint">Search turf or sports venue</string>
+    <string name="banner_title">Find Your Perfect Game</string>
+    <string name="banner_subtitle">Book premier turfs with instant slot confirmation</string>
+    <string name="popular_sports">Popular Sports</string>
+    <string name="nearby_turfs">Nearby &amp; Popular Turfs</string>
+    <string name="view_all">View All</string>
+    <string name="view_details">View Details</string>
+    
+    <!-- Nav Strings -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_bookings">Bookings</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Details & Booking -->
+    <string name="venue_details">Venue Details</string>
+    <string name="book_now">Book Now</string>
+    <string name="facilities">Available Facilities</string>
+    <string name="description_title">About Venue</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time_slot">Select Time Slot</string>
+    <string name="morning_slots">Morning (6 AM - 12 PM)</string>
+    <string name="afternoon_slots">Afternoon (12 PM - 5 PM)</string>
+    <string name="evening_slots">Evening (5 PM - 10 PM)</string>
+    <string name="booking_summary">Booking Summary</string>
+    <string name="venue_rate">Turf Fee (1 Hour)</string>
+    <string name="convenience_fee">Booking &amp; Platform Fee</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="confirm_booking">Confirm &amp; Book Turf</string>
+    
+    <!-- Confirmation -->
+    <string name="booking_confirmed">Booking Confirmed!</string>
+    <string name="booking_success_msg">Your turf slot has been successfully reserved.</string>
+    <string name="booking_id_label">Booking ID</string>
+    <string name="btn_view_bookings">View My Bookings</string>
+    <string name="btn_back_home">Back to Home</string>
+    
+    <!-- Bookings List -->
+    <string name="upcoming_bookings">Upcoming</string>
+    <string name="past_bookings">Past &amp; Cancelled</string>
+    <string name="cancel_booking">Cancel Booking</string>
+    <string name="no_bookings_found">No bookings found yet.</string>
+    <string name="no_favorites_found">No favorite venues yet.</string>
+</resources>

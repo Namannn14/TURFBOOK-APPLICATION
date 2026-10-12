@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <!-- Hardwood basketball court color -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M25,20 h310 v140 h-310 z M180,20 v140 M180,65 A25,25 0 1,0 180,115 A25,25 0 1,0 180,65 Z" />
+    <!-- 3-point arcs and keys -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M25,60 h55 v60 h-55 M335,60 h-55 v60 h55" />
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:pathData="M80,60 A30,30 0 0,1 80,120 M280,60 A30,30 0 0,0 280,120" />
+</vector>

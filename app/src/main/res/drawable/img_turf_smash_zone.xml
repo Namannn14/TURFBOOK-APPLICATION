@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <!-- Green synthetic badminton mat -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <!-- Court outline -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M40,20 h280 v140 h-280 z M180,20 v140" />
+    <!-- Service lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M140,20 v140 M220,20 v140 M40,35 h280 M40,145 h280 M40,90 h100 M220,90 h100" />
+    <!-- Badminton net in center -->
+    <path
+        android:strokeColor="#FEF08A"
+        android:strokeWidth="4"
+        android:pathData="M180,15 v150" />
+</vector>

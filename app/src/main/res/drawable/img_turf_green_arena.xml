@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#157347"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <path
+        android:fillColor="#0E5C36"
+        android:pathData="M45,0 h45 v180 h-45 z M135,0 h45 v180 h-45 z M225,0 h45 v180 h-45 z M315,0 h45 v180 h-45 z" />
+    <!-- Football pitch markings -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M30,15 h300 v150 h-300 z M180,15 v150" />
+    <!-- Center circle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M180,60 A30,30 0 1,0 180,120 A30,30 0 1,0 180,60 Z" />
+    <!-- Goal areas -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M30,55 h35 v70 h-35 M330,55 h-35 v70 h35" />
+</vector>

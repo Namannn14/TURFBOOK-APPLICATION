@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="180dp"
+    android:viewportWidth="360"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#166534"
+        android:pathData="M0,0 h360 v180 h-360 z" />
+    <path
+        android:fillColor="#15803D"
+        android:pathData="M0,0 h90 v180 h-90 z M180,0 h90 v180 h-90 z" />
+    <!-- Football penalty box and field -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M25,20 h310 v140 h-310 z M180,20 v140 M180,70 A20,20 0 1,0 180,110 A20,20 0 1,0 180,70 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M180,85 A5,5 0 1,0 180,95 A5,5 0 1,0 180,85 Z" />
+</vector>

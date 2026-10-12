@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Shuttlecock -->
+    <path
+        android:fillColor="#0F5132"
+        android:pathData="M12,17 C13.66,17 15,18.34 15,20 C15,21.66 13.66,23 12,23 C10.34,23 9,21.66 9,20 C9,18.34 10.34,17 12,17 Z" />
+    <path
+        android:fillColor="#198754"
+        android:pathData="M8,17 L6,6 L10,8 L12,4 L14,8 L18,6 L16,17 Z" />
+</vector>

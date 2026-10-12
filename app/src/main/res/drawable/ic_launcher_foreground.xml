@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Turf emblem center -->
+    <path
+        android:fillColor="#157347"
+        android:pathData="M54,20 C70,20 82,32 82,48 C82,68 62,84 54,88 C46,84 26,68 26,48 C26,32 38,20 54,20 Z" />
+    <!-- White center field mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 A12,12 0 1,0 54,62 A12,12 0 1,0 54,38 Z" />
+    <!-- Center sports mark -->
+    <path
+        android:fillColor="#083320"
+        android:pathData="M54,43 L59,47 L57,53 L51,53 L49,47 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M44,70 L64,70" />
+</vector>
